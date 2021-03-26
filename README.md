@@ -1,6 +1,6 @@
 # Signs
 
-Creating a ResNet50 model using keras and applying classification for different hand gestures
+Creating a ResNet50 model using keras and applying classification for different hand gestures.
 
 ## ResNet50
 
